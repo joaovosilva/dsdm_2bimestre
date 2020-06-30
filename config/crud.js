@@ -1,0 +1,1 @@
+exports.crudUrl = 'https://crudcrud.com/api/528eee55acc449498c574169eccb0a78';
